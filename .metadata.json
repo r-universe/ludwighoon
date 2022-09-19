@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "minSNPs",
+    "oncran": true
+  }
+]
